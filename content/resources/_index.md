@@ -33,6 +33,9 @@ Here you can download the <ins>[documentation to openPASS](openpass_function_doc
 Here you can download the <ins>[documentation to the openPASS GUI](documentation.chm)</ins>.
 
 ## Glossary  
+
+As a reference for the used terms on the wepage the DIN SAE SPEC 91381 is being used. The standard consists of terms and definitions related to testing of automated vehicle. The document can be downloaded free of charge <ins>[here](https://www.beuth.de/de/technische-regel/din-sae-spec-91381/307106071)</ins>.
+
 ### General  
 
 |Term                 |Definition|
